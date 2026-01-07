@@ -1,26 +1,34 @@
 # FastKart SQL Project
 
-This repository contains SQL queries for the FastKart case study. 
+**Project Type:** Data Analysis / SQL  
+**Domain:** E-commerce  
 
-## Project Overview
-FastKart is an e-commerce platform, and these SQL queries analyze products, customers, and sales data. The queries include:
+This repository contains SQL queries for **FastKart**, a fictional e-commerce platform, to analyze products, customers, and sales patterns.
 
-1. Top products by quantity available
-2. Customers with more than 10 purchases
-3. Total quantity available by category
-4. Most sold product
-5. Number of male and female customers
-6. Product classification by price
-7. Price adjustments by category
-8. Percentage of female users
-9. Average balance for card types with CVV filter
-10. 2nd most valuable non-motor item
+---
 
-## SQL File
-The SQL queries can be found in the file: `fastkart_sql_queries.sql`
+## **Objective**
+- Write SQL queries for real-world business scenarios  
+- Aggregate and analyze e-commerce data  
+- Generate insights on products, customers, and transactions  
 
-## How to Use
-1. Open the `.sql` file in any SQL editor (MySQL, PostgreSQL, etc.)
-2. Run the queries on your FastKart database
+---
+
+## **SQL Queries Included**
+1. Top 3 products by quantity  
+2. Customers with >10 purchases  
+3. Category-wise total quantity (descending)  
+4. Most sold product by quantity  
+5. Number of male & female customers  
+6. Product classification by price (Affordable / High End Stuff / Luxury)  
+7. Price adjustment by category  
+8. Percentage of female users  
+9. Average balance by card type (with conditions)  
+10. 2nd most valuable item excluding Motors  
+
+---
+
+## **Folder Structure**
+
 
 
